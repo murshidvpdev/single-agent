@@ -1,0 +1,6 @@
+langchain>=0.0.1
+langchain-classic>=1.0.0
+langchain-groq>=0.0.1
+langchain-tavily>=0.2.18
+python-dotenv>=1.2.4
+streamlit>=1.40.0
